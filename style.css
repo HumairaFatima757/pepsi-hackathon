@@ -1,0 +1,192 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    position: fixed;
+    margin-top: 0px;
+    width :1347px;
+}
+.navbar{
+    background-color: blue;
+    
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+list-style: none;
+margin: 38px 72px;
+
+margin-right: 106px;
+margin-left: 94px;
+}
+    
+
+.navbar li a {
+    padding: 3px 3px ;
+    text-decoration: none;
+    color: white;
+
+}
+.logoimg{
+position: fixed;
+height: 79px;
+left: 17px;
+width: 100px;
+border-radius: 100%;
+/* background-color: blue; */
+
+margin-top: 23px;
+}
+.container1 {
+background-color: black;
+height: 1020px;
+width: 99vw;
+color: white;
+display: flex;
+margin-top: -16px;
+}
+
+.container1 .one  .img1{
+width: 50vw;
+margin-left: 121px;
+}
+
+.container1 .two{
+margin-top: 398px;
+margin-left: 115px;
+}
+.container1 .two .sp1 {
+color: beige;
+font-size: 112px;
+
+}
+.container1 .two .sp2 {
+color: beige;
+font-size: 60px;
+
+}
+.container1 .two .sp3 {
+color: beige;
+font-size: 112px;
+
+}
+.container1 .two .sp4 {
+color: beige;
+font-size: 30px;
+
+}
+
+.container2{
+background-image: url(bg\ color2.png);
+background-repeat: no-repeat;
+display: flex;
+height: 918px;
+background-size: cover;
+
+}
+.container2 .img2 img{
+margin-top: 80px;
+margin-left: 20px;
+}
+.container2 .img3 img{
+margin-top: 177px;
+margin-left: 26px;
+}
+.container3{
+display: flex;
+background-color: blue;
+} 
+.container3 .img4 img{
+width: 707px;
+height: 387px;
+}
+
+.container3 .img5 img{
+width: 640px;
+height: 387px;
+}
+.container4{
+background-color: blue;
+display: flex;
+}
+
+.container4 img{
+margin-top: 60px;
+margin-left: 20px;
+}
+.container4 .text{
+font-size: 50px;
+margin-left: 20px;
+margin-top: 70px;
+color: azure;
+}
+.last{
+background-color: azure;
+display:flex;
+color: blue;
+
+}
+.last .last1 img{
+height: 90px;
+width: 90px;
+  margin-top: 88px;
+  margin-left: 71px;
+
+}
+
+
+.last .last2{
+
+margin-top: 92px;
+margin-left: 49px;
+font-size: 20px;
+line-height: 30px;
+
+
+}
+.last .last3{
+
+margin-top: 92px;
+margin-left: 49px;
+font-size: 20px;
+line-height: 30px;
+
+
+}
+.last .last4{
+
+margin-top: 92px;
+margin-left: 49px;
+font-size: 20px;
+line-height: 30px;
+
+}
+
+.last .subscribe {
+display:flex ;
+
+}
+.last .subscribe img {
+height: 30px;
+width: 30px;
+margin-top: 207px;
+margin-left: 9px;
+/* transition: cubic-bezier; */
+transform: translateX(-158px);
+/* transform: translateY(140px); */
+margin-bottom: 43px;
+}
+.last .subscribe button {
+height: 36px;
+width: 300px;
+margin-top: 133px;
+border-radius: 29%;
+margin-left: 29px;
+margin-right: -105px;
+}
+
+
